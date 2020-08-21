@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:brown_concrete_powder"
+        }
+    ],
+    "result": {
+        "item": "minecraft:dirt",
+        "count": 9
+    },
+    "group": "alternate_recipes"
+}

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#G#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:beetroot"
+        },
+        "G": {
+            "item": "minecraft:green_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_ward",
+        "count": 1
+    },
+    "group": "alternate_recipes"
+}

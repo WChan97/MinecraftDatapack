@@ -1,0 +1,2 @@
+G-Rank is a datapack created to fulfil a particular niche.
+It was a tool to learn how to develop my own datapacks, and the name "G-Rank" was taken from Monsterhunter's G Rank as a gameplay enhancement.

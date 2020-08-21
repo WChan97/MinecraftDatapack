@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#T#",
+        "PLP",
+        "F F"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:string"
+        },
+        "T": {
+            "item": "minecraft:totem_of_undying"
+        },
+        "P": {
+            "item": "minecraft:paper"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        },
+        "F": {
+            "item": "minecraft:feather"
+        }
+    },
+    "result": {
+        "item": "minecraft:elytra",
+        "count": 1
+    },
+    "group": "alternate_recipes"
+}

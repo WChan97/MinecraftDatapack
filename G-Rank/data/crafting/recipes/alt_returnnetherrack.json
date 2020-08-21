@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:red_concrete_powder"
+        }
+    ],
+    "result": {
+        "item": "minecraft:netherrack",
+        "count": 9
+    },
+    "group": "alternate_recipes"
+}

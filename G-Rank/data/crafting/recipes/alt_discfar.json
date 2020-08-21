@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#D#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:beetroot"
+        },
+        "D": {
+            "item": "minecraft:dandelion"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_far",
+        "count": 1
+    },
+    "group": "alternate_recipes"
+}

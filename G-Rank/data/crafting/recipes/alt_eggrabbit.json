@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#R#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:egg"
+        },
+        "R": {
+            "item": "minecraft:rabbit"
+        }
+    },
+    "result": {
+        "item": "minecraft:rabbit_spawn_egg",
+        "count": 1
+    },
+    "group": "alternate_recipes"
+}

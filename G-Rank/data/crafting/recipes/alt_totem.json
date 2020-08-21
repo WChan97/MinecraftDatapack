@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#E#",
+        "ggg",
+        " g "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:ender_eye"
+        },
+        "E": {
+            "item": "minecraft:enchanted_golden_apple"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:totem_of_undying",
+        "count": 1
+    },
+    "group": "alternate_recipes"
+}

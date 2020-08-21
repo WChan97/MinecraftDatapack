@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#P#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:beetroot"
+        },
+        "P": {
+            "item": "minecraft:purple_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_mall",
+        "count": 1
+    },
+    "group": "alternate_recipes"
+}

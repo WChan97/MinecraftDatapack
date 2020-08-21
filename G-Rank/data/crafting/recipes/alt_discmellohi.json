@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#M#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:beetroot"
+        },
+        "M": {
+            "item": "minecraft:magenta_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_mellohi",
+        "count": 1
+    },
+    "group": "alternate_recipes"
+}

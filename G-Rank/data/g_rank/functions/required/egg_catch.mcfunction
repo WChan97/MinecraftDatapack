@@ -1,0 +1,2 @@
+#This function makes animal mobs capturable
+execute at @e[type=minecraft:snowball,nbt={OnGround:0b}] as @e[sort=nearest,distance=..1.5,limit=1,type=!minecraft:snowball,type=!player,type=!item] run function g_rank:required/egg_gotcha

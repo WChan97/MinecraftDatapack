@@ -2,7 +2,7 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
-            "item": "minecraft:light_gray_concrete_powder"
+            "item": "minecraft:light_gray_concrete"
         }
     ],
     "result": {

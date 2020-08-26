@@ -11,7 +11,7 @@
         }
     },
     "result": {
-        "item": "minecraft:red_concrete_powder",
+        "item": "minecraft:red_concrete",
         "count": 1
     },
     "group": "alternate_recipes"

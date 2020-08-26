@@ -1,2 +1,0 @@
-#
-function entityglow:required/glowing

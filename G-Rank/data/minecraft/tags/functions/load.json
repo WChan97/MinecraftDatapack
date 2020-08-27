@@ -1,5 +1,6 @@
 {
   "values": [
-    "g_rank:start" 
+    "g_rank:start",
+    "g_rank:boss/boss_load"
    ] 
 }

@@ -1,5 +1,6 @@
 {
   "values": [
-    "g_rank:loop" 
+    "g_rank:loop",
+    "g_rank:boss/boss_load"
    ] 
 }

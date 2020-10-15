@@ -1,4 +1,5 @@
 #Spawn the correct egg==========================================================================================
+#Only if it is one of the below=================================================================================
 
 execute if entity @s[type=bat] run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bat_spawn_egg",Count:1b}}
 execute if entity @s[type=bat] run function g_rank:egg/egg_remove
